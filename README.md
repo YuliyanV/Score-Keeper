@@ -1,0 +1,2 @@
+# Ping-Pong Score Keeper
+This is a project from Udemy. The Web Developer Bootcamp 2022 by Colt Steele -> https://www.udemy.com/course/the-web-developer-bootcamp/
