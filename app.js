@@ -11,7 +11,7 @@ const winningScoreSelect = document.querySelector('#playto'); //Select Score
 
 let p1Score = 0; //Player One Score Start at 0
 let p2Score = 0; //Player Two Score Start at 0
-let winningScore = 5;
+let winningScore = 3;
 let isGameOver = false;
 
 
@@ -31,7 +31,6 @@ p1Button.addEventListener('click', function () {
         p1Display.textContent = p1Score;
     }
 });
-
 
 
 // Player Two Score
